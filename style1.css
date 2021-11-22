@@ -1,0 +1,27 @@
+body{
+    background-image: url('images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box
+
+{ 
+    align-items: center;
+    font-size:x-large;
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+.input_field{
+    margin-left: 4rem;
+    position: relative;
+    margin-right: 65%;
+}
+.input1{
+    background-color:white;
+    border-style:hidden;
+    border-bottom-color: black;
+    size: 5.2rem;
+
+}

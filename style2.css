@@ -1,0 +1,26 @@
+body{
+    background-image: url('images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Box
+{
+    align-items: center;
+    font-size:x-large;
+    margin-left: 450px;
+    margin-top: 200px;
+}
+.input_field{
+    margin-left: 4rem;
+    position: relative;
+    margin-right: 65%;
+    size: 50px;
+}
+.input1{
+    border-style:hidden;
+ 
+}
+.input2{
+    border-style: inherit;
+    margin-left: 11%;
+}
